@@ -1,6 +1,6 @@
 # Project 1
 
-## 👥 Người tham gia
+## Người tham gia
 
 | STT | MSV       | Họ và tên         | Lớp                   |
 | --: | --------- | ----------------- | --------------------- |
@@ -10,7 +10,7 @@
 |   4 | 253630652 | Nguyễn Thành Công | Khoa học máy tính K66 |
 |   5 | 253610676 | Vũ Mạnh Kiên      | Khoa học máy tính K66 |
 
-## 📌 Giới thiệu
+## Giới thiệu
 
 Repository này được tạo để phục vụ quá trình **học tập, thực hành và phát triển project** của nhóm sinh viên **Khoa học máy tính K66 – UTC**.
 
@@ -18,7 +18,7 @@ Repository này được tạo để phục vụ quá trình **học tập, th�
 
 Nội dung và mục tiêu cụ thể của project sẽ được cập nhật sau khi nhóm thống nhất.
 
-## 🚀 Bắt đầu
+## Bắt đầu
 
 ### Clone repository
 
@@ -39,7 +39,7 @@ git pull origin main
 git status
 ```
 
-## 💻 Làm việc với code
+## Làm việc với code
 
 Sau khi chỉnh sửa hoặc thêm code:
 
@@ -69,7 +69,7 @@ Push branch:
 git push -u origin feature/ten-feature
 ```
 
-## ⚠️ Lưu ý
+## Lưu ý
 
 Không đưa các thông tin nhạy cảm lên repository, chẳng hạn:
 
@@ -82,7 +82,7 @@ Không đưa các thông tin nhạy cảm lên repository, chẳng hạn:
 
 ---
 
-## 🔗 Repository
+## Repository
 
 [GitHub Repository – project-1](https://github.com/akmc-khmt-k66-utc/project-1.git?utm_source=chatgpt.com)
 
